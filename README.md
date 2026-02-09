@@ -1,4 +1,4 @@
-# Email Spam Classifier
+# SMS Spam Classifier
 
 This is a machine learning project that classifies text messages as either "ham" (non-spam) or "spam". It uses the UCI SMSSpamCollection dataset and a Multinomial Naive Bayes classifier. The goal of this project is to build a simple and efficient spam classifier using basic Natural Language Processing techniques. The process includes loading and preparing the data, converting text into numeric features, training a classifier, and evaluating its performance.
 
